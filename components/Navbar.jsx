@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
       <div className="navbar-container">
         <p className='logo'>
-          <Link href="/" >Ck Headphones</Link>
+          <Link href="/" >CK Stores</Link>
         </p>
 
         <button type='button' className="cart-icon" onClick={() => setShowCart(true)}>
